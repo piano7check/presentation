@@ -1,5 +1,5 @@
 import './App.css';
-import profilePic from './Images/image_gustavo.jpeg';
+import profilePic from './Images/image_gustavo.jpg';
 
 function App() {
   return (
@@ -17,7 +17,7 @@ function App() {
       <section className="education">
         <h2>Formación Profesional</h2>
         <ul>
-          <li>Licenciado en Ingeniería de Sistemas</li>
+          <li>Ingeniero de Sistemas</li>
           <li>Diplomado Experto en Desarrollo de Aplicaciones Empresariales</li>
           <li>Diplomado en Educación Superior Basado en Competencias</li>
           <li>Diplomado en Docencia para Educación Virtual por Competencias</li>
