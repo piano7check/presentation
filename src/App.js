@@ -11,6 +11,7 @@ function App() {
           className="profile-pic"
         />
         <h1>Ing. Gustavo Rojas Valdivia</h1>
+        <h1>Ing. Gustavo Rojas Valdivia</h1>
         <p>e-mail: grv.trainer@gmail.com</p>
       </header>
 
